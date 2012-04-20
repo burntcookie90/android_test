@@ -3,5 +3,7 @@
 
     <string name="hello">Hello World, Android_testActivity!</string>
     <string name="app_name">Android_test</string>
+    <string name="torchOn">Torch On</string>
+    <string name="torchOffString">Torch Off</string>
 
 </resources>
